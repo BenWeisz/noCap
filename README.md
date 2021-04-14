@@ -23,6 +23,7 @@ Step 1:
 - Make a mesh model using the provided processing project (.pde file)
     -   You will have to download the processing app from processing.org/downloads to run the file.
     -   Follow the instrutions in the app
+
 Step 2:
 -   Once the model is exported, plug in your webcam
 
