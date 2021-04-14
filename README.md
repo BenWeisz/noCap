@@ -1,4 +1,6 @@
-# 2D Motion Capture App
+# 2D Motion Capture - noCap
+![Alt Text](https://github.com/BenWeisz/noCap/blob/main/demo.gif)
+
 ## Motivation
 ---
 The use of motion capture in animated movies / games seems like a really cool alternative to using a model that is animated through the use of inverse kinematics. Unfortunatly this can be quite expensive and as an undergraduate with limited funds somewhat hard to do. In this project I make an attempt at reproducing motion capture in 2D with a simple 2D skeleton rig. 
