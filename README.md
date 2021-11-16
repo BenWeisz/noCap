@@ -19,7 +19,6 @@ In addition to these bones, we also have a 2d mesh model that surrounds these bo
 Using the computed transformation angles from above, and the skinning weights we transform the vertex points of the mesh model to their new positions.
 
 ## How to use (May be hard to set up, please look at giphy instead: https://gph.is/g/4oXkOAK)
-DEMO WILL BE SHOWN IN CLASS
 
 Step 1:
 - Make a mesh model using the provided processing project (.pde file)
